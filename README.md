@@ -1,4 +1,4 @@
-# Bot_Puxar_Animes
+# Bot Puxar Animes
 
 ### Como Instalar
 
